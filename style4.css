@@ -1,0 +1,11 @@
+#fortune-output{
+  font-size: 20px;
+  letter-spacing: 20px;
+  color: Pink;
+  background: DarkRed;
+}
+
+#Restyler {
+  align-self: center;
+  position: fixed;
+}

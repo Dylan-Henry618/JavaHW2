@@ -1,0 +1,11 @@
+#fortune-output{
+  font-size: 20px;
+  letter-spacing: 5px;
+  color: Teal;
+  background: Lightgray;
+}
+
+#Restyler {
+  padding-top: 50px;
+  position: fixed;
+}
